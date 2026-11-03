@@ -142,7 +142,7 @@ docker exec codyssey-volume-check-2 cat /data/proof.txt
 - `docs/screenshots/04-port-8081.png`
 - `docs/screenshots/05-bind-mount.png`
 - `docs/screenshots/06-volume-persistence.png`
-- `docs/screenshots/07-github-vscode.png`
+- `docs/screenshots/07-github-repository.png`
 
 ## 9. Git과 GitHub
 
